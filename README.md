@@ -5,7 +5,7 @@
 Here something about me:
 
 - 🔭 I’m currently working at home
-- 🌱 I’m currently learning [Agile Click](https://github.com/gridsome/gridsome)
+- 🌱 I’m currently learning [Gridsome](https://github.com/gridsome/gridsome)
 - 👯 I’m looking to collaborate with User Interface
 - 🤔 I’m looking for help with Business Management
 - 💬 Ask me about UI Design 
