@@ -19,5 +19,10 @@ Here something about me:
 
 
 ## Follow me on my social networks:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/felipemotabr)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/felipemotabr/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipemotabr)](https://github.com/felipemotabr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemotabr/)](https://www.linkedin.com/in/felipemotabr/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-003ecb?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/felipemotabr)](https://www.behance.net/felipemotabr)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/felipemotabr)](https://twitter.com/felipemotabr)
+
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipemotabr&show_icons=true" alt="felipemotabr" /></p>
